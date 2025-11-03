@@ -34,6 +34,8 @@ src/
 │ └─ pages/
 │ ├─ ContactUs.jsx
 │ └─ Form.jsx
+│ └─ GetInTouch.jsx
+│ └─ Response.jsx
 ├─ App.jsx
 ├─ main.jsx
 └─ index.css
